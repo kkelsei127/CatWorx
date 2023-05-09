@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kioWGqYvqxS/jTAvel0EbLR4P+M+JhVd3s6M8ThhStbhFpsB+VAmmAn30cmSK7JG1hHp50XSR243pmARCoMZnQ==",
+  "dgSpecHash": "LqIWTxup8Se30w3RvOVcf3T3hRBaGo1h2n47QbYZtIIQHgLCHbqnzMJTWTI1qWV59Mt7UvW9GhcRxLUg8k5J8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\kkels\\Bootcamp\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kkels\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\kkels\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\kkels\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
   "logs": []
 }
